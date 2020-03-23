@@ -117,5 +117,5 @@ body {
 
 .btn:link,
 .btn:visited {
-  text: uppercase;
+  text-transform: uppercase;
 }
