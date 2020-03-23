@@ -1,4 +1,4 @@
-# Course Material and FAQ for my Advanced CSS Course
+<!-- # Course Material and FAQ for my Advanced CSS Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
@@ -58,4 +58,4 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 ### Q13: Do you accept pull requests?
 
-**A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
+**A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one. -->
